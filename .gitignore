@@ -1,0 +1,8 @@
+/node_modules
+/emails.json
+/emails.json.ls
+/2weekspast.ls
+/.sendgridlogin.json
+/.sendgridlogin.json.ls
+/.mongourls.json
+/.mongourls.json.ls
